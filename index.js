@@ -1,4 +1,4 @@
-function compare() {
+const compare = (a, b) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
